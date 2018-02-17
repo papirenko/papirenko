@@ -1,0 +1,45 @@
+<!-- BEGIN (write your solution here) -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+        <title>Моё резюме</title>
+    </head>
+    <body>
+        <div id="header">
+            <h1>Papirenko Alexandr</h1>
+            <h3>Web-programmer</h3>
+            <p>
+                <a href="mailto:papirenko1@gmail.com">papirenko@gmail.com</a>,
+                <a href="https://vk.com/tipa_makedonskiy">https://vk.com/tipa_makedonskiy</a>
+            </p>
+        </div>
+        <div id="main">
+            <p>i am a good man</p>
+            <h2>Opyt raboty</h2>
+                <ol>
+                     <li>Код. Тайный язык информатики (Чарльз Петцольд)</li>
+                     <li>Не заставляйте меня думать (Steve Krug)</li>
+                     <li>Дизайн привычных вещей (Donald Norman)</li>
+                </ol>
+            <h2>Obrazov</h2>
+                 <ol>
+                     <li>Код. Тайный язык информатики (Чарльз Петцольд)</li>
+                     <li>Не заставляйте меня думать (Steve Krug)</li>
+                     <li>Дизайн привычных вещей (Donald Norman)</li>
+                </ol>
+            <h2>uvle4eni</h2>
+                 <ol>
+                     <li>Код. Тайный язык информатики (Чарльз Петцольд)</li>
+                     <li>Не заставляйте меня думать (Steve Krug)</li>
+                     <li>Дизайн привычных вещей (Donald Norman)</li>
+                </ol>
+        </div>
+        <div id="footer">
+            <h4>Papirenko</h4><br>
+            <p>Evpatoria, 9 maya, <a href="mailto:papirenko1@gmail.com">papirenko@gmail.com</a></p> 
+        </div>
+    </body>
+</html>
+<!-- END -->
